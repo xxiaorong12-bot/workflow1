@@ -21,3 +21,5 @@ Default behavior across projects:
 User preference: Upload recurring feedback to Git/GitHub rather than keeping it only locally. Apply this as the default behavior for all projects when a suitable GitHub repository is available.
 
 Repository selected for this workflow: `xxiaorong12-bot/workflow1`.
+
+User workflow preference: Use `skills-sh-importer` to discover, inspect, audit, and install useful Skills from `skills.sh`; use `plugin-creator` only when a discovered or installed Skill should become a durable Codex Plugin with marketplace visibility, bundled scripts/assets, or cross-project reuse. Keep one-off or experimental capabilities as Skills instead of promoting everything into Plugins.
